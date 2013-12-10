@@ -2,4 +2,4 @@ repo-1
 =====
 
 xxx
-master1
+slave1
